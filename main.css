@@ -1,5 +1,12 @@
 .jumbotron{
   background-color: #D37E4E;
+  height: 100%;
+}
+
+.social-media{
+  min-height: 100%;
+  margin: 0;
+  background-color: #797979;
 }
 
 .fa {
@@ -21,10 +28,29 @@
 .fa-facebook {
   background: #3B5998;
   color: white;
+
 }
 
 /* Twitter */
 .fa-twitter {
   background: #55ACEE;
   color: white;
+}
+
+@media (min-width:768px){
+  
+  .body{
+    width: auto;
+    height: auto
+  }
+  
+  .jumbotron{
+     font-size: 8px;
+  }
+}
+
+@media (min-width:992px){
+  .jumbotron{
+     font-size: 80px;
+  }
 }
