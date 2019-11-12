@@ -1,56 +1,39 @@
-.jumbotron{
-  background-color: #D37E4E;
-  height: 100%;
+body {
+  width: 100%;
+  max-width: none;
 }
 
-.social-media{
-  min-height: 100%;
+.jumbotron {
+  background-color: #dedede;
+
+}
+
+#footer {
+  height: 20px;
+  width: 100%;
   margin: 0;
-  background-color: #797979;
-}
-
-.fa {
-  padding: 30px;
-  font-size: 40px;
-  width: 100px;
-  text-align: center;
-  text-decoration: none;
-}
-
-/* Add a hover effect if you want */
-.fa:hover {
-  opacity: 0.7;
-}
-
-/* Set a specific color for each brand */
-
-/* Facebook */
-.fa-facebook {
-  background: #3B5998;
-  color: white;
+  padding: 40px 0;
+  background-color: #dedede;
+  font-size: 11px;
 
 }
 
-/* Twitter */
-.fa-twitter {
-  background: #55ACEE;
-  color: white;
-}
 
-@media (min-width:768px){
-  
-  .body{
+@media (min-width:768px) {
+  body{
+    
+  }
+  hidden-sm {
+    display: none !important;
+  }
+  nav {
     width: auto;
-    height: auto
+
   }
-  
-  .jumbotron{
-     font-size: 8px;
-  }
+
 }
 
-@media (min-width:992px){
-  .jumbotron{
-     font-size: 80px;
-  }
-}
+
+
+
+@media (min-width:992px) {}
