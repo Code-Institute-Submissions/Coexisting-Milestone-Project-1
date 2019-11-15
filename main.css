@@ -4,8 +4,27 @@ body {
 }
 
 .jumbotron {
-  background-color: #dedede;
+  background-image: url("images/ellis-head.jpg");
   height: 100vh;
+  color: white;
+
+}
+.heading{
+  position: absolute;
+width: 520px;
+height: 70px;
+left: calc(50% - 520px/2 - 333.5px);
+bottom: 1986px;
+
+font-family: Seaweed Script;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 87px;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
 
 }
 
@@ -20,11 +39,10 @@ body {
 }
 
 
+
 @media (min-width:768px) {
-  body{
-    
-  }
-  hidden-sm {
+  
+  #hidden-sm {
     display: none !important;
   }
   nav {
