@@ -9,7 +9,7 @@ body {
   color: white;
 
 }
-.heading{
+.heading {
   position: absolute;
 width: 520px;
 height: 70px;
@@ -28,6 +28,13 @@ color: #FFFFFF;
 
 }
 
+  #gallery{
+    
+  }
+
+ ul{
+  list-style-type: none;
+}
 #footer {
   height: 20px;
   width: 100%;
