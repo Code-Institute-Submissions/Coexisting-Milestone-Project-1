@@ -5,6 +5,7 @@ body {
 
 .jumbotron {
   background-image: url("static/images/ellis-head.jpg");
+  background-color:D37E4E;
   height: 100vh;
   color: white;
 
