@@ -1,0 +1,125 @@
+body {
+  width: 100%;
+  max-width: none;
+  text-align: center;
+}
+
+.jumbotron {
+  background-attachment: fixed; 
+  background-image: url("../images/ellis-head.jpg");
+  background-color:D37E4E;
+  background-size: cover;
+  height: 100vh; 
+  color:#5ccccc;
+  
+
+}
+
+h1{
+  margin-top: 200px;
+}
+
+h4{
+  margin-top: 150px;
+}
+#single{
+  background-image: url("../images/ellis-eyes.jpg");
+  background-size:cover;
+  height: 50vh;
+ 
+}
+.overlay {
+  background:black;
+  opacity:.5;
+}
+#About{
+  margin-left: 50px ;
+  margin-right: 50px;
+}
+  #Gallery{
+    padding: 2px;
+    margin-left: 50px;
+    margin-right: 50px;
+   } 
+
+   #Videos{
+     margin-left: 50px;
+     margin-right: 50px;
+   }
+.about-me{
+  background-image: url("../images/curly.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+}
+   
+
+/* contact */
+#contact {
+  background-attachment: fixed;
+  background-position: left;
+  background-size: cover;
+  padding-bottom: 100px;
+  padding-top: 42px;
+  text-align: left;
+  margin-bottom: 30px;
+  color: white;
+
+}
+
+textarea {
+  width: 100%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  resize: none;
+}
+
+
+ ul{
+  list-style-type: none;
+}
+/* footer */
+#footer {
+  height: 20px;
+  width: 100%;
+  margin: 0;
+  padding: 40px 0;
+  background-color: #dedede;
+  font-size: 25px;
+
+}
+
+.fa-twitter-square:hover {
+  background-color: #00aced;
+}
+.fa-instagram:hover {
+  background-color: #00aced;
+}
+.fa-snapchat-square:hover {
+  background-color: #00aced;
+}
+/* responsive */
+
+@media (min-width:768px) {
+  
+  
+  #hidden-sm {
+    display: none !important;
+  }
+  nav {
+    width: auto;
+
+  }
+
+
+}
+
+
+
+
+@media (min-width:992px) {
+  
+}
