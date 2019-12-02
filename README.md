@@ -12,9 +12,11 @@ The users of this site are current supporters, future supporters and talents age
 
 
 ## Design
-The colour scheme consist of orange , grey and light blue.
+The colour scheme consist of orange and grey.
 ### Mockups
 The web page is a single page with four separate sections
+http://github.com - automatic!
+[GitHub](http://github.com)
 wireframe: https://www.figma.com/file/K0h1YMwVfOuaEDlAAfSLjz/EDR-project-wireframe?node-id=0%3A1
 Features
 
