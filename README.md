@@ -50,5 +50,6 @@ In the future I would like to create a chat board.
 ### Media
 
 ### Content
+All content was written by me for the artist.
 
 ### Acknowledgment
