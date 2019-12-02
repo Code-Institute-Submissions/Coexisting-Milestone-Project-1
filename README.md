@@ -23,9 +23,9 @@ The web page is a single page with four separate sections which can been seen in
 ### Planned features 
 
 * Bootstrap
-** HTML
-** CSS 
-** framework (grid system, buttons, modals, jumbotron, cards)
+  * HTML
+  * CSS 
+  * framework (grid system, buttons, modals, jumbotron, cards)
 * responsive design- mobile first
 * GitHub
 ## Technologies used
