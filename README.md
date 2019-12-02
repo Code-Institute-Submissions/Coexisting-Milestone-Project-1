@@ -25,9 +25,9 @@ The web page is a single page with four separate sections which can been seen in
 * Bootstrap
   * HTML
   * CSS 
-  * framework (grid system, buttons, modals, jumbotron, cards)
-* responsive design- mobile first
-* GitHub
+  * framework (grid system, buttons, modals, jumbotron, cards)- This makes the website more intereacctive and is easier for users to use. 
+* responsive design- mobile first - This ensures that users on any device can eaisly use this website.
+* GitHub - Allows cohensive and easy collaborations, which helps to create a smooth and resposnive website.
 ## Technologies used
 html
 css
