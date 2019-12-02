@@ -14,13 +14,13 @@ The users of this site are current supporters, future supporters and talents age
 ## Design
 The colour scheme consist of orange and grey.
 ### Mockups
-The web page is a single page with four separate sections
-http://github.com - automatic!
-[Wirefram](https://www.figma.com/file/K0h1YMwVfOuaEDlAAfSLjz/EDR-project-wireframe?node-id=0%3A1)
+The web page is a single page with four separate sections which can been seen in the wireframe:
+
+[Wireframe](https://www.figma.com/file/K0h1YMwVfOuaEDlAAfSLjz/EDR-project-wireframe?node-id=0%3A1)
 
 ## Features
 
-## Planned features 
+### Planned features 
 Documentattion- ReadMe File & Mockups
 Colour Scheme
 Bootstrap- HTML, CSS framework (grid system, buttons, modals, jumbotron, cards)
@@ -36,5 +36,7 @@ Visual Studio One
 Github
 slack
 Youtube
+
+### Future Features 
 
 ## Testing
