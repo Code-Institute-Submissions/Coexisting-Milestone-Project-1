@@ -5,10 +5,10 @@ A website the displays content and upcoming shows for a upcoming singer and song
 ## UX design
 ### User
 The users of this site are current supporters, future supporters and talents agencies or record labels.
-User stories
-A fan looking for more content from the artist
-A supporter trying to find where to purchase tickets for performances
-Music labels scouting for talent.
+### User stories
+* A fan looking for more content from the artist
+* A supporter trying to find where to purchase tickets for performances
+* Music labels scouting for talent.
 
 
 ## Design
