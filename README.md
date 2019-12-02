@@ -29,15 +29,15 @@ The web page is a single page with four separate sections which can been seen in
 * responsive design- mobile first - This ensures that users on any device can eaisly use this website.
 * GitHub - Allows cohensive and easy collaborations, which helps to create a smooth and resposnive website.
 ## Technologies used
-html
-css
-Gogle chrome
-Google
-bootstrap
-Visual Studio One
-Github
-slack
-Youtube
+[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML#:~:targetText=HTML%20(HyperText%20Markup%20Language)%20is,functionality%2Fbehavior%20(JavaScript).)
+[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS#:~:targetText=Cascading%20Style%20Sheets%20(CSS)%20is,speech%2C%20or%20on%20other%20media.)
+[Google chrome](https://www.google.com/chrome/)
+[Google](https://www.google.com/)
+[Bootstrap](https://getbootstrap.com/)
+[Visual Studio One](https://code.visualstudio.com/)
+[Github](https://github.com/)
+[Slack](https://slack.com/intl/en-gb/)
+[Youtube](https://www.youtube.com/)
 
 ### Future Features 
 
