@@ -36,7 +36,7 @@ h1{
 }
 h3{
 
-font-size: 4rem;
+font-size: 2.5rem;
 }
 h4{
   margin-top: 150px;
@@ -55,8 +55,8 @@ h5{
   background-image: url("../images/ellis-eyes.jpg");
   background-size:cover;
   height: 40vh;
-  width: auto;
- 
+  width: 100%;
+  max-width: 100%;
 }
 .overlay {
   background:black;
@@ -93,10 +93,7 @@ h5{
   padding-top: 42px;
   text-align: left;
   margin-bottom: 30px;
-  color: white;
-  
-
-}
+  }
 form{
   
   width: 150%;
@@ -138,7 +135,7 @@ textarea {
 }
 /* responsive */
 
-@media (min-width:768px) {
+/* @media (min-width:768px) {
   
   
   #hidden-sm {
@@ -157,4 +154,19 @@ textarea {
 
 @media (min-width:992px) {
   
+} */
+
+@media (max-width: 700px) {
+body{
+  width: 100%;
+  max-width: 1000px;
+  text-align: left;
+  
+}
+  .jumbotron{
+    
+    width: 100%;
+    
+ 
+  }
 }
