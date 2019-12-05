@@ -118,7 +118,7 @@ textarea {
   margin: 0;
   padding: 40px 0;
   background-color: #dedede;
-  font-size: 25px;
+  font-size: 2rem;
 
 }
 
@@ -131,6 +131,8 @@ textarea {
 .fa-snapchat-square:hover {
   background-color: #00aced;
 }
+
+
 /* responsive */
 
 /* @media (min-width:768px) {
@@ -167,7 +169,8 @@ body{
   .jumbotron{
     width: 100%;
     margin: 0 auto;
-    height: 50vh; 
+    height: 50vh;
+    background-position: top center; 
  }
   h1{
     margin-top: 50px;
@@ -245,6 +248,16 @@ body{
     form{
       
       width: 100%;
+    }
+    #footer {
+      
+      height: 20px;
+      width: 100%;
+      margin: 0;
+      padding: 40px 0;
+      background-color: #dedede;
+      font-size: 1.5rem;
+    
     }
 
 }
