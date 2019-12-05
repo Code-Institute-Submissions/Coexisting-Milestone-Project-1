@@ -123,6 +123,7 @@ textarea {
 }
 #lab_social_icon_footer {
   padding: 40px 0;
+ text-align: center;
   background-color: #dedede;
 }
 
@@ -166,9 +167,7 @@ textarea {
   
 } */
 
-@media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px)  {
+@media (max-width: 768px)  {
 body{
   width: 100%;
  margin: auto;
@@ -283,5 +282,9 @@ body{
       font-size: 1.5rem;
     
     }
-
+    #lab_social_icon_footer {
+      
+     text-align: center;
+      
+    }
 }
