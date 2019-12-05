@@ -21,8 +21,6 @@ body {
   height: 100vh; 
   color: white;
   
-  
-  
 
 }
 
@@ -201,4 +199,52 @@ body{
     margin-left: 100px;
     margin-right: 100px;
   }
+}
+@media (max-width: 480px){
+  body{
+    width: 100%;
+   margin: auto;
+  }
+  
+    .jumbotron{
+      width: 100%;
+      margin: 0 auto;
+      height: 80vh; 
+   }
+    h1{
+      margin-top: 50px;
+      font-size: 2.5rem;
+      
+    }
+    h4{
+      margin-top: 30px;
+      font-size: 2rem;
+      align-items: center;
+    }
+    
+    #About{
+      margin-left: 50px ;
+      margin-right: 50px;
+    
+    }
+  
+    #single{
+    
+     
+      /* display: none; */
+       height: 15vh;
+      width: 100%;
+       
+    }
+    
+    #Videos{
+      margin-left: 50px;
+      margin-right: 50px;
+    }
+    
+    form{
+      
+      width: 100%;
+    }
+
 }
