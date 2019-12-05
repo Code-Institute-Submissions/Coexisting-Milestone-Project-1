@@ -50,8 +50,12 @@ This website is hosted on GitHub pages, deployed using the master branch. The de
 
 ## Credit
 ### Media
-
+All images were taken by and of the artist. All videos were obtained from [Youtube](https://www.youtube.com/) and are not owned by me.
 ### Content
 All content was written by me for the artist.
 
 ### Acknowledgment
+For all the help and inspiration:
+* Code Institute
+* [Slack](https://slack.com/intl/en-gb/) community
+* Seun Owonikoko @seun_mentor 
