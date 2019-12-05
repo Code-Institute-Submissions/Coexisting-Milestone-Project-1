@@ -12,7 +12,7 @@ body {
   margin-left:30px;
   margin-right:30px;
  font-size: 1.2rem;
-}
+} 
 .jumbotron {
   background-attachment: fixed; 
   background-image: url("../images/ellis-head.jpg");
@@ -34,7 +34,7 @@ h1{
   
 }
 h3{
-
+text-align: center;
 font-size: 2rem;
 }
 h4{
@@ -85,9 +85,6 @@ h5{
 
 /* contact */
 #contact {
-  background-attachment: fixed;
-  background-position: left;
-  background-size: cover;
   padding-bottom: 100px;
   padding-top: 42px;
   text-align: left;
@@ -175,6 +172,7 @@ body{
   margin-right:20px;
  font-size: 1.2rem;
 }
+
   .jumbotron{
     width: 100%;
     margin: 0 auto;
