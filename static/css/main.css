@@ -136,9 +136,11 @@ textarea {
   color: #d34836;
 }
 .fa-snapchat-square:hover {
-  background-color: color#f39c12;
+  color: color#f4EA1E;
 }
-
+.fa-envelope-square:hover {
+  color: color#d1D1CC;
+}
 
 /* responsive */
 
