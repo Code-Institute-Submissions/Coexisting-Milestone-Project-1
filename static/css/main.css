@@ -116,20 +116,25 @@ textarea {
   height: 20px;
   width: 100%;
   margin: 0;
-  padding: 40px 0;
-  background-color: #dedede;
   font-size: 2rem;
 
 }
+#lab_social_icon_footer {
+  padding: 40px 0;
+  background-color: #dedede;
+}
 
+#lab_social_icon_footer a {
+  color: #333;
+}
 .fa-twitter-square:hover {
-  background-color: #00aced;
+  color: #4099FF;
 }
 .fa-instagram:hover {
-  background-color: #00aced;
+  color: #d34836;
 }
 .fa-snapchat-square:hover {
-  background-color: #00aced;
+  background-color: color#f39c12;
 }
 
 
