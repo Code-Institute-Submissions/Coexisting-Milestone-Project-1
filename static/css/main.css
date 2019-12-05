@@ -156,17 +156,49 @@ textarea {
   
 } */
 
-@media (max-width: 700px) {
+@media (max-width: 768px) {
 body{
   width: 100%;
-  max-width: 1000px;
-  text-align: left;
-  
+ margin: auto;
+}
+.navbar-nav > li{
+  margin-left:20px;
+  margin-right:20px;
+ font-size: 1.2rem;
 }
   .jumbotron{
-    
     width: 100%;
+    margin: 0 auto;
+    height: 100vh; 
+ }
+  h1{
+    margin-top: 50px;
+    font-size: 3rem;
     
- 
+  }
+  h4{
+    margin-top: 30px;
+    font-size: 2rem;
+    align-items: center;
+  }
+  
+  #About{
+    margin-left: 100px ;
+    margin-right: 100px;
+  
+  }
+
+  #single{
+  
+   
+    
+    height: 15vh;
+    width: 100%;
+    max-width: 100%;
+  }
+  
+  #Videos{
+    margin-left: 100px;
+    margin-right: 100px;
   }
 }
