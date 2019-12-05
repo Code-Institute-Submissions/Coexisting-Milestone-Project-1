@@ -71,6 +71,10 @@ h5{
     margin-left: 50px;
     margin-right: 50px;
    } 
+   .card-img-top{
+    width:265px;
+    height: 250px;
+  }
 
    #Videos{
      margin-left: 50px;
@@ -162,7 +166,9 @@ textarea {
   
 } */
 
-@media (max-width: 768px) {
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px)  {
 body{
   width: 100%;
  margin: auto;
@@ -204,6 +210,11 @@ body{
     width: 100%;
     max-width: 100%;
     background-position: top center;
+  }
+
+  .card-img-top{
+    width:165px;
+    height: 150px;
   }
   
   #Videos{
@@ -249,7 +260,10 @@ body{
       background-position: top center;
        
     }
-    
+     .card-img-top{
+      width:220px;
+      height: 150px;
+    } 
     #Videos{
       margin-left: 50px;
       margin-right: 50px;
