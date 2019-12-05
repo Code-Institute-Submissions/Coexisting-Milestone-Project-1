@@ -29,7 +29,7 @@ The web page is a single page with four separate sections which can been seen in
 * responsive design- mobile first - This ensures that users on any device can eaisly use this website.
 * GitHub - Allows cohensive and easy collaborations, which helps to create a smooth and resposnive website.
 ### Future Features 
-In the future I would like to create a chat board.
+In the future I would like to create animations alongside videos to make the website more interactive.
 ## Technologies used
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML#:~:targetText=HTML%20(HyperText%20Markup%20Language)%20is,functionality%2Fbehavior%20(JavaScript).)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS#:~:targetText=Cascading%20Style%20Sheets%20(CSS)%20is,speech%2C%20or%20on%20other%20media.)
@@ -45,6 +45,8 @@ In the future I would like to create a chat board.
 ## Testing
 
 ## Deployment
+This website is hosted on GitHub pages, deployed using the master branch. The deployed site will update automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named index.html.
+
 
 ## Credit
 ### Media
