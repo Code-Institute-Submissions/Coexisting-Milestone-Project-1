@@ -12,7 +12,7 @@ The users of this site are current supporters, future supporters and talents age
 
 
 ## Design
-The colour scheme consist of orange and grey.
+The colour scheme consist of white and grey for a clean and mordern look.
 ### Mockups
 The web page is a single page with four separate sections which can been seen in the wireframe:
 
