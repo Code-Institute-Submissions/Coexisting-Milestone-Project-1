@@ -46,7 +46,7 @@ In the future I would like to create animations alongside videos to make the web
 ## Testing
 
 ## Deployment
-This website is hosted on GitHub pages, deployed using the master branch. The deployed site will update automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named index.html.
+This website is hosted on GitHub pages, deployed using the master branch. The deployed site will update when new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named index.html.
 
 
 ## Credit
