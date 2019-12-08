@@ -21,34 +21,31 @@ body {
   height: 100vh; 
   color: white;
   background-position: center;
-  
-
 }
 
 .section{
   margin: 10px 10px 15px 15px;
 }
+
 h1{
   margin-top: 80px;
   margin-bottom: auto;
-  font-size: 5.5rem;
-  
+  font-size: 5.5rem; 
 }
 
 h3{
 text-align: center;
 font-size: 2rem;
 }
+
 h4{
   margin-top: auto;
   font-size: 2rem;
-
 }
 
 
 h5{
   text-align: center;
- 
 }
 
 #single{
@@ -59,20 +56,22 @@ h5{
   width: 100%;
   max-width: 100%;
 }
+
 .overlay {
   background:black;
   opacity:.5;
 }
+
 #About{
   margin-left: 50px ;
   margin-right: 50px;
 
 }
   #Gallery{
-    padding: 2px;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 50px ;
+  margin-right: 50px;
    } 
+
    .card-img-top{
     width:265px;
     height: 250px;
@@ -82,6 +81,8 @@ h5{
      margin-left: 50px;
      margin-right: 50px;
    }
+
+
 .about-me{
   background-image: url("../images/curly.jpg");
   background-attachment: fixed;
@@ -128,6 +129,7 @@ textarea {
   font-size: 2rem;
 
 }
+
 #lab_social_icon_footer {
   padding: 40px 0;
  text-align: center;
@@ -138,15 +140,19 @@ textarea {
   color: #333;
 }
 
+
 .fa-twitter-square:hover {
   color: #4099FF;
 }
+
 .fa-instagram:hover {
   color: #d34836;
 }
+
 .fa-snapchat-square:hover {
   color: color#f4EA1E;
 }
+
 .fa-envelope-square:hover {
   color: color#d1D1CC;
 }
@@ -213,6 +219,7 @@ body{
   
   }
 
+
   #single{
     height: 15vh;
     width: 100%;
@@ -230,6 +237,9 @@ body{
     margin-right: 100px;
   }
 }
+
+
+
 @media (max-width: 480px){
   body{
     width: 100%;
@@ -273,6 +283,13 @@ body{
       width:220px;
       height: 150px;
     } 
+
+    
+  #Gallery{
+    margin-left: 50px ;
+  margin-right: 50px;
+   } 
+   
     #Videos{
       margin-left: 50px;
       margin-right: 50px;
