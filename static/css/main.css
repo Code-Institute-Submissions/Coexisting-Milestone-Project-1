@@ -150,11 +150,11 @@ textarea {
 }
 
 .fa-snapchat-square:hover {
-  color: color#f4EA1E;
+  color:  #f4EA1E;
 }
 
 .fa-envelope-square:hover {
-  color: color#d1D1CC;
+  color:  #d1D1CC;
 }
 
 /* responsive */
@@ -286,10 +286,9 @@ body{
 
     
   #Gallery{
-    margin-left: 50px ;
-  margin-right: 50px;
+   align-content: center;
    } 
-   
+
     #Videos{
       margin-left: 50px;
       margin-right: 50px;
