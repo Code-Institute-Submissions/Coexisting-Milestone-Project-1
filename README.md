@@ -8,6 +8,9 @@ A website the displays content and upcoming shows for a upcoming singer and song
 The users of this site are current supporters, future supporters and talents agencies or record labels.
 ### User stories
 * A fan looking for more content from the artist
+* A supporter trying to find pictures of the artist
+* Other artist trying to send a message to the artist.
+* Endorsers trying to find the artist social media
 * A supporter trying to find where to purchase tickets for performances
 * Music labels scouting for talent.
 
