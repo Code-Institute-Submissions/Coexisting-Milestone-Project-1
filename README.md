@@ -3,7 +3,7 @@
 A website the displays content and upcoming shows for a upcoming singer and songwriter to reach out to their audience.The website also allows users to buy tickets for shows. It will increse the artist sales, steams and oppurtunity to get signed or have endorsements from companies. 
 
 ## UX design
-![Image of demo](/documentation/responsive.png)
+![Image of demo](https://github.com/Coexisting/Milestone-Project-1.git/documentation/responsive.png)
 ### User
 The users of this site are current supporters, future supporters and talents agencies or record labels.
 ### User stories
