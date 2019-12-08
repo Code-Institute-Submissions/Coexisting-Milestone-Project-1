@@ -1,316 +1,270 @@
-html{
-  font-size: 15px;
+html {
+	font-size: 15px;
 }
+
 body {
-  width: 100%;
-  max-width: none;
-  text-align: center;
-  font-family: Courier New, monospace;
-  font-weight: bolder;
+	width: 100%;
+	max-width: none;
+	text-align: center;
+	font-family: Courier New, monospace;
+	font-weight: bolder;
 }
-.navbar-nav > li{
-  margin-left:30px;
-  margin-right:30px;
- font-size: 1.2rem;
-} 
+
+.navbar-nav>li {
+	margin-left: 30px;
+	margin-right: 30px;
+	font-size: 1.2rem;
+}
+
 .jumbotron {
-  background-attachment: fixed; 
-  background-image: url("../images/ellis-head.jpg");
-  background-color:D37E4E;
-  background-size: cover;
-  height: 100vh; 
-  color: white;
-  background-position: center;
+	background-attachment: fixed;
+	background-image: url("../images/ellis-head.jpg");
+	background-size: cover;
+	height: 100vh;
+	color: white;
+	background-position: center;
 }
 
-.section{
-  margin: 10px 10px 15px 15px;
+.section {
+	margin: 10px 10px 15px 15px;
 }
 
-h1{
-  margin-top: 80px;
-  margin-bottom: auto;
-  font-size: 5.5rem; 
+.ticket-form {
+	font-size: 1rem;
+	color: black;
+	font-family: inherit;
 }
 
-h3{
-text-align: center;
-font-size: 2rem;
+h1 {
+	margin-top: 80px;
+	margin-bottom: auto;
+	font-size: 5.5rem;
 }
 
-h4{
-  margin-top: auto;
-  font-size: 2rem;
+h3 {
+	text-align: center;
+	font-size: 2rem;
 }
 
-
-h5{
-  text-align: center;
+h4 {
+	margin-top: auto;
+	font-size: 2rem;
 }
 
-#single{
-  
-  background-image: url("../images/ellis-eyes.jpg");
-  background-size:cover;
-  height: 40vh;
-  width: 100%;
-  max-width: 100%;
+h5 {
+	text-align: center;
+}
+
+#single {
+	background-image: url("../images/ellis-eyes.jpg");
+	background-size: cover;
+	height: 40vh;
+	width: 100%;
+	max-width: 100%;
 }
 
 .overlay {
-  background:black;
-  opacity:.5;
+	background: black;
+	opacity: .5;
 }
 
-#About{
-  margin-left: 50px ;
-  margin-right: 50px;
-
+#About {
+	margin-left: 50px;
+	margin-right: 50px;
 }
-  #Gallery{
-    margin-left: 50px ;
-  margin-right: 50px;
-   } 
 
-   .card-img-top{
-    width:265px;
-    height: 250px;
-  }
-
-   #Videos{
-     margin-left: 50px;
-     margin-right: 50px;
-   }
-
-
-.about-me{
-  background-image: url("../images/curly.jpg");
-  background-attachment: fixed;
-  background-size: cover;
+#Gallery {
+	margin-left: 50px;
+	margin-right: 50px;
 }
-   
+
+.card-img-top {
+	width: 265px;
+	height: 250px;
+}
+
+#Videos {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.about-me {
+	background-image: url("../images/curly.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+}
+
 
 /* contact */
 
-.Contact-me{
-  margin-left: auto;
-  margin-right: auto;
+.Contact-me {
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #contact {
-  padding-bottom: 100px;
-  padding-top: 42px;
-  text-align: left;
-  margin-bottom: 30px;
-  }
+	padding-bottom: 100px;
+	padding-top: 42px;
+	text-align: left;
+	margin-bottom: 30px;
+}
 
 textarea {
-  width: 100%;
-  height: 200px;
-  padding: 12px 20px;
-  box-sizing: border-box;
-  border: 2px solid #ccc;
-  border-radius: 4px;
-  font-size: 16px;
-  resize: none;
+	width: 100%;
+	height: 200px;
+	padding: 12px 20px;
+	box-sizing: border-box;
+	border: 2px solid #ccc;
+	border-radius: 4px;
+	font-size: 16px;
+	resize: none;
+}
+
+ul {
+	list-style-type: none;
+	text-align: center;
+	padding: 10px;
 }
 
 
- ul{
-  list-style-type: none;
-  text-align: center;
-  padding: 10px;
-}
 /* footer */
-#footer {
-  height: 20px;
-  width: 100%;
-  margin: 0;
-  font-size: 2rem;
 
+#footer {
+	height: 20px;
+	width: 100%;
+	margin: 0;
+	font-size: 2rem;
 }
 
 #lab_social_icon_footer {
-  padding: 40px 0;
- text-align: center;
-  background-color: #dedede;
+	padding: 40px 0;
+	text-align: center;
+	background-color: #dedede;
 }
 
 #lab_social_icon_footer a {
-  color: #333;
+	color: #333;
 }
 
-
 .fa-twitter-square:hover {
-  color: #4099FF;
+	color: #4099FF;
 }
 
 .fa-instagram:hover {
-  color: #d34836;
+	color: #d34836;
 }
 
 .fa-snapchat-square:hover {
-  color:  #f4EA1E;
+	color: #f4EA1E;
 }
 
 .fa-envelope-square:hover {
-  color:  #d1D1CC;
+	color: #d1D1CC;
 }
 
-/* responsive */
-
-/* @media (min-width:768px) {
-  
-  
-  #hidden-sm {
-    display: none !important;
-  }
-  nav {
-    width: auto;
-
-  }
-
-
+@media (max-width: 1024px) {
+	body {
+		width: 100%;
+		margin: auto;
+	}
+	.navbar-nav>li {
+		margin-left: 20px;
+		margin-right: 20px;
+		font-size: 1.2rem;
+	}
+	.jumbotron {
+		width: 100%;
+		margin: 0 auto;
+		height: 100vh;
+		background-position: top center;
+	}
+	h1 {
+		margin-top: 80px;
+		font-size: 3rem;
+	}
+	h4 {
+		margin-top: 70px;
+		font-size: 2rem;
+		text-align: center;
+	}
+	.list {
+		text-align: center;
+		align-items: center;
+	}
+	#About {
+		margin-left: 100px;
+		margin-right: 100px;
+	}
+	#single {
+		height: 15vh;
+		width: 100%;
+		max-width: 100%;
+		background-position: center;
+	}
+	.card-img-top {
+		width: 165px;
+		height: 150px;
+	}
+	#Videos {
+		margin-left: 100px;
+		margin-right: 100px;
+	}
 }
 
-
-
-
-@media (min-width:992px) {
-  
-} */
-
-@media (max-width: 1024px)  {
-body{
-  width: 100%;
- margin: auto;
-}
-.navbar-nav > li{
-  margin-left:20px;
-  margin-right:20px;
- font-size: 1.2rem;
-}
-
-  .jumbotron{
-    width: 100%;
-    margin: 0 auto;
-    height: 100vh;
-    background-position: top center; 
- }
-  h1{
-    margin-top: 80px;
-    font-size: 3rem;
-    
-  }
-  h4{
-    margin-top: 70px;
-    font-size: 2rem;
-    text-align: center;
-  }
-
-    .list{
-      text-align: center;
-      align-items: center;
-    }
-  
-  #About{
-    margin-left: 100px ;
-    margin-right: 100px;
-  
-  }
-
-
-  #single{
-    height: 15vh;
-    width: 100%;
-    max-width: 100%;
-    background-position: center;
-  }
-
-  .card-img-top{
-    width:165px;
-    height: 150px;
-  }
-  
-  #Videos{
-    margin-left: 100px;
-    margin-right: 100px;
-  }
-}
-
-
-
-@media (max-width: 480px){
-  body{
-    width: 100%;
-   margin: auto;
-  }
-  
-    .jumbotron{
-      width: 100%;
-      margin: 0 auto;
-      height: 100vh; 
-      background-position: top center;
-   }
-    h1{
-      margin-top: 50px;
-      font-size: 2.5rem;
-      
-    }
-    h4{
-      margin-top: 30px;
-      font-size: 2rem;
-      align-items: center;
-    }
-    
-    #About{
-      margin-left: 50px ;
-      margin-right: 50px;
-      margin-top: 40px;
-    
-    }
-  
-    #single{
-    
-     
-      /* display: none; */
-       height: 15vh;
-      width: 100%;
-      background-position: top center;
-       
-    }
-     .card-img-top{
-      width:220px;
-      height: 150px;
-    } 
-
-    
-  #Gallery{
-   align-content: center;
-   } 
-
-    #Videos{
-      margin-left: 50px;
-      margin-right: 50px;
-    }
-    
-    form{
-      
-      width: 100%;
-    }
-    #footer {
-      
-      height: 20px;
-      width: 100%;
-      margin: 0;
-      padding: 40px 0;
-      background-color: #dedede;
-      font-size: 1.5rem;
-    
-    }
-    #lab_social_icon_footer {
-      
-     text-align: center;
-      
-    }
+@media (max-width: 480px) {
+	body {
+		width: 100%;
+		margin: auto;
+	}
+	.jumbotron {
+		width: 100%;
+		margin: 0 auto;
+		height: 100vh;
+		background-position: top center;
+	}
+	h1 {
+		margin-top: 50px;
+		font-size: 2.5rem;
+	}
+	h4 {
+		margin-top: 30px;
+		font-size: 2rem;
+		align-items: center;
+	}
+	#About {
+		margin-left: 50px;
+		margin-right: 50px;
+		margin-top: 40px;
+	}
+	#single {
+		/* display: none; */
+		height: 15vh;
+		width: 100%;
+		background-position: top center;
+	}
+	.card-img-top {
+		width: 220px;
+		height: 150px;
+	}
+	#Gallery {
+		align-content: center;
+	}
+	#Videos {
+		margin-left: 50px;
+		margin-right: 50px;
+	}
+	form {
+		width: 100%;
+	}
+	#footer {
+		height: 20px;
+		width: 100%;
+		margin: 0;
+		padding: 40px 0;
+		background-color: #dedede;
+		font-size: 1.5rem;
+	}
+	#lab_social_icon_footer {
+		text-align: center;
+	}
 }
