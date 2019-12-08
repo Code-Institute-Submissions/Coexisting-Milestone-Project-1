@@ -50,7 +50,9 @@ In the future I would like to create animations alongside videos to make the web
 
 
 ## Testing
+The website is easily accesible and allows supporters to find out more about the artist due to the about me section. The many pcitures of the artist gives those wanting to collaborate a good understanding of her image. The videos on youtube play while on the website when pressed and show the artist talents for supporters and possible talent recruiter. The socila media icons help more supporters to connect with the artist. They highlight when they hovered on and go straight to these social media sites once clicked. All links on the site and the button for spotify open in a new tab due to the 'target="blank"'.
 
+When the buy tickets modal is pressed it highlights then pops up with a form to buy a ticket which includes buttons a check boxes. The navabar links all move to the specific section of the website and the navbar stays fixed on top. 
 ## Deployment
 This website is hosted on [Github Pages](https://coexisting.github.io/Milestone-Project-1/) deployed using the master branch, explained [Here](https://help.github.com/en/github/getting-started-with-github/create-a-repo). The deployed site updates automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named index.html. This along with the Read.Me can be found in the root folder.
 
