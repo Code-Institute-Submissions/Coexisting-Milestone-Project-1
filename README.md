@@ -54,6 +54,9 @@ In the future I would like to create animations alongside videos to make the web
 ## Deployment
 This website is hosted on [Github Pages](https://coexisting.github.io/Milestone-Project-1/) deployed using the master branch, explained [Here](https://help.github.com/en/github/getting-started-with-github/create-a-repo). The deployed site updates automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named index.html. This along with the Read.Me can be found in the root folder.
 
+This can be ran locally by cloning the repository https://github.com/Coexisting/Milestone-Project-1.git and pasting into your code IDE terminal. The website can be run by opening the HTML file within a web browser. The link provided can be visited and your website with any made changes will appear.
+
+
 ## Credit
 ### Media
 All images were taken by and of the artist. All videos were obtained from [Youtube](https://www.youtube.com/) and are not owned by me.
