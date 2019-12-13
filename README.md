@@ -1,6 +1,6 @@
 # Milestone-Project-1
 ## Project Purpose
-A website the displays content and upcoming shows for a upcoming singer and songwriter to reach out to their audience.The website also allows users to buy tickets for shows. It will increse the artist sales, steams and oppurtunity to get signed or have endorsements from companies. 
+A website that displays content and upcoming shows for an upcoming singer and songwriter to reach out to their audience. The website also allows users to buy tickets for shows. It will increase the artist sales, steams and opportunity to get signed or have endorsements from companies.
 
 ## UX design
 ![Image of demo](Documentation/responsive.png)
