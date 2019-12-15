@@ -12,9 +12,11 @@ The users of this site are current supporters, future supporters, and talent age
 * A fan looking for more content from the artist
 * A supporter trying to find pictures of the artist
 * Other artists trying to send a message to the artist.
-* Endorsers trying to find the artist social media
+* Endorsers or potential supporter trying to find the artist social media
 * A supporter trying to find where to purchase tickets for performances
 * Music labels scouting for talent.
+* A supporter trying to find the artists music via spotify
+* A supporter looking for videos of the artists 
 
 
 ## Design
