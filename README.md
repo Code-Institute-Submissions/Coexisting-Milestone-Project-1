@@ -74,6 +74,7 @@ Also, different devices were used, this includes :
 * Macbook 
 * Ipad mini
 * Ipad pro
+### Issues fixed
 The text on the jumbotron would not center on Ipad until I added 'align-self-center'. The background on the jumbotron would appear doubled until the background-size was changed to cover. Also, the background image on the jumbotron and the holder section would appear blurry and zoomed on Ipads. This was fixed after changing the viewport height in media queries.
 
 ## Deployment
