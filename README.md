@@ -56,7 +56,7 @@ In the future, I would like to create animations alongside videos to make the we
 
 ## Testing
 
-The website is easily accessible and allows supporters to find out more about the artist due to the about me section. The many pictures of the artist give those wanting to collaborate a good understanding of her image. The videos on youtube play while on the website when pressed and show the artist talents for supporters and possible talent recruiter. The social media icons help more supporters to connect with the artist. They highlight when they hovered on and go straight to these social media sites once clicked. All links on the site and the button for Spotify open in a new tab due to the 'target="blank"'.
+The website is easily accessible and allows supporters to find out more about the artist from the about me section. The many pictures of the artist give those wanting to collaborate a good understanding of her image. The videos on youtube play while on the website when pressed and show the artist talents for supporters and possible talent recruiter. The social media icons help more supporters to connect with the artist. They highlight when they hovered on and go straight to these social media sites once clicked. All links on the site and the button for Spotify open in a new tab due to the 'target="blank"'.
 
 When the buy tickets modal is pressed it highlights then pops up with a form to buy a ticket which includes button-checkboxes. The navbar links all move to the specific section of the website and the navbar stays fixed on top. 
 
