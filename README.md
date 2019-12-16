@@ -20,7 +20,7 @@ The users of this site are current supporters, future supporters, and talent age
 
 
 ## Design
-The color scheme consists of white and grey for a clean and modern look.
+The color scheme consists of white and grey with green buttons for a clean and modern look.
 
 ### Mockups
 The web page is a single page with four separate sections which can been seen in the wireframe:
